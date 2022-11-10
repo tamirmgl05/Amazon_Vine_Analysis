@@ -1,5 +1,6 @@
 ## Overview of the analysis: 
 
+The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. I used grocery category for my project. 
 
 ## Results:
 
@@ -42,3 +43,5 @@
 <img width="776" alt="Pct_5stars_unpaid_reviews" src="https://user-images.githubusercontent.com/107653012/201179791-f52a12f8-64b8-4b78-8c1b-79570e227977.png">
 
 ## Summary: 
+
+According to our analysis, 55.46% non-Vine reviews were 5 stars and 32.79% of the vine reviews were 5 stars. Since, the percentage non-Vine 5 stars is 22.67% higher than vine 5 stars reviews, I conclude that there was not biased involvement in ratings.  
