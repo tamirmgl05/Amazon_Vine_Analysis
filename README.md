@@ -33,8 +33,12 @@
 <img width="774" alt="5star_unpaid_review" src="https://user-images.githubusercontent.com/107653012/201176419-3f30face-4509-47d3-84ae-50f2b1c08f27.png">
 
 
-4. What percentage of Vine reviews were 5 stars? 
+4. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-5. What percentage of non-Vine reviews were 5 stars?
+**32.79% of the vine reviews were 5 stars and 55.46% non-Vine reviews were 5 stars.**  
+
+<img width="725" alt="Pct_5stars_paid_review" src="https://user-images.githubusercontent.com/107653012/201179752-7a61e60b-7a5e-40f2-9ae0-2880b98ea322.png">
+
+<img width="776" alt="Pct_5stars_unpaid_reviews" src="https://user-images.githubusercontent.com/107653012/201179791-f52a12f8-64b8-4b78-8c1b-79570e227977.png">
 
 ## Summary: 
